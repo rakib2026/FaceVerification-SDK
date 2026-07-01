@@ -34,7 +34,7 @@ Powered by **[FaceOnLive](https://faceonlive.com/)** technology.
 install from source:
 
 ```bash
-git clone https://github.com/<your-username>/FaceVerification-SDK.git
+git clone https://github.com/rakib2026/FaceVerification-SDK.git
 cd FaceVerification-SDK
 pip install -r requirements.txt
 ```
